@@ -14,6 +14,8 @@ This project implements a robust ETL (Extract, Transform, Load) pipeline that in
 
 ---
 
+##Project Video link - 
+
 ## 📁 Project Structure
 
 ```bash
@@ -21,3 +23,8 @@ This project implements a robust ETL (Extract, Transform, Load) pipeline that in
 ├── transactions_part_1.csv
 ├── transactions_part_2.csv
 └── transactions_part_3.csv
+```
+# 👤 Author
+Vivek Sharma
+Azure | Data Engineering | ETL Pipelines
+LinkedIn · GitHub
