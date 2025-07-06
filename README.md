@@ -14,7 +14,7 @@ This project implements a robust ETL (Extract, Transform, Load) pipeline that in
 
 ---
 
-## Project Video link - 
+## Project Video link -  https://drive.google.com/file/d/143u6-td5RY-SwvUT-vOuwsZd3ZzXIdh6/view?usp=sharing
 
 ## 📁 Project Structure
 
